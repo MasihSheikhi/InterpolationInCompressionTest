@@ -20,7 +20,7 @@ The pipeline follows a rigorous mathematical approach to isolate the frictionles
 
 The script generates a comprehensive 4-panel figure providing deep insights into the correction process:
 
-![Analysis Result](assets/Figure.png)
+![Analysis Result](/Figure.png)
 *(Figure: (Top-Left) Stress-strain curves for varying m and the extrapolated frictionless curve. (Top-Right) Linear extrapolation at specific strains. (Bottom-Left) Variation of slope \(d\sigma/dm\). (Bottom-Right) Statistical quality (\(R^2\)) of the extrapolation).*
 
 ## Requirements
